@@ -1,0 +1,34 @@
+header {
+    text-align: center;
+    color: darkslategrey;
+   font-size:x-large;
+   background-color:rgb(104, 94, 3, 0.541);
+   padding: 5;
+}
+.main-section{
+    padding-top: 3%;
+    background-color: rgba(104, 94, 3, 0.541);
+    margin-bottom: 50px;
+    margin-top: 50px;
+    color: darkslategrey;
+}
+.image-container{
+  text-align: center;  
+}
+.secondary{
+    background-color: rgba(104, 94, 3, 0.541);   
+    padding: 10px;
+    color: darkslategrey;
+}
+.primary{
+    background-color: rgba(104, 94, 3, 0.541);
+    padding-bottom: 1%;
+    color: darkslategrey;
+}
+.main-footer{
+    text-align: center;
+    color: darkslategrey;
+}
+.seperate{
+    text-align: center;
+}
